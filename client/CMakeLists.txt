@@ -1,6 +1,6 @@
 set(sources src/client_main.cpp)
 set(headers)
-#set(CMAKE_EXE_LINKER_FLAGS "-mwindows")
+#set(CMAKE_EXE_LINKER_FLAGS "-mwindows") AGAIN YOLO
 add_executable(strikeback_client ${headers} ${sources})
 target_link_libraries(strikeback_client strikeback_common)
 target_link_libraries(strikeback_client strikeback_gui)
