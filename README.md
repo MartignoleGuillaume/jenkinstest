@@ -1,6 +1,6 @@
 jenkinstest
 ===========
 
-[![Build Status](http://root.maximaximal.com/jenkins/job/Test/badge/icon)](http://root.maximaximal.com/jenkins/job/Test/)
+[!Build Status](http://root.maximaximal.com/jenkins/job/Test/badge/icon)
 
 CMake based jenkins test
